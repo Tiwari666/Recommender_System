@@ -46,8 +46,9 @@ These systems combine multiple recommendation techniques to provide more accurat
 
 These techniques decompose the user-item interaction matrix into lower-dimensional matrices to capture latent factors or features that represent user preferences and item characteristics. Matrix factorization methods, such as Singular Value Decomposition (SVD) and Alternating Least Squares (ALS), are commonly used in collaborative filtering-based recommender systems.
 
-5)
-Deep Learning-Based Recommender Systems: These systems use deep learning models, such as neural networks, to learn complex patterns and representations from user-item interactions and other contextual information. Deep learning-based recommender systems can capture nonlinear relationships and dependencies in the data, leading to more accurate recommendations.
+5) Deep Learning-Based Recommender Systems:
+  
+These systems use deep learning models, such as neural networks, to learn complex patterns and representations from user-item interactions and other contextual information. Deep learning-based recommender systems can capture nonlinear relationships and dependencies in the data, leading to more accurate recommendations.
 
 A) Matrix Factorization with Neural Networks: 
 
