@@ -37,9 +37,6 @@ These systems combine multiple recommendation techniques to provide more accurat
 
 ![image](https://github.com/Tiwari666/Recommender_System/assets/153152895/60ff557c-b745-4cdf-a7e1-36f2d8db2abd)
 
-![image](https://github.com/Tiwari666/Recommender_System/assets/153152895/c4d688f3-1eda-40bc-bcda-47f5e896c8db)
-
-
 ![image](https://github.com/Tiwari666/Recommender_System/assets/153152895/41d9b491-72e4-4d54-8dd8-2c8ce025dcc6)
 
 
